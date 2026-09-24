@@ -1,4 +1,8 @@
 ---
+genres:
+  - rpg
+  - adventure
+  - platformer
 directors_cut: https://my-kiwi.github.io/mane-quest/
 post: https://my-kiwi.github.io/mane-quest/
 # See github.com/js13kGames/hello-world for supported frontmatter
